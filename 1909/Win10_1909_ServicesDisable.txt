@@ -1,6 +1,5 @@
 autotimesvc
 BcastDVRUserService
-CDPSvc
 CDPUserSvc
 CscService
 defragsvc
